@@ -1,0 +1,19 @@
+{
+  "name": "mwep-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourabhjo7/Mwep-API.git"
+  },
+  "author": "Sourabh Joshi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourabhjo7/Mwep-API/issues"
+  },
+  "homepage": "https://github.com/sourabhjo7/Mwep-API#readme"
+}
